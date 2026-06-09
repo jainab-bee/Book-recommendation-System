@@ -189,29 +189,6 @@ pip install streamlit pandas numpy scikit-learn gensim nltk
 streamlit run app.py
 ```
 
----
-
-## Example Queries
-
-```text
-machine learning
-```
-
-```text
-deep learning neural networks
-```
-
-```text
-history romance
-```
-
-```text
-fantasy magic adventure
-```
-
-```text
-psychology self improvement
-```
 
 ---
 
